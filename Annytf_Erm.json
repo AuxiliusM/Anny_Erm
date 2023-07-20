@@ -22,17 +22,7 @@
 
   ],
 
-  "whitelist": [
-
-    {
-
-      "name": "Nero Peps",
-
-      "url": "https://neuroplace.pages.dev/bruh.json "
-
-    }
-
-  ],
+  "whitelist": [],
 
   "blacklist": []
 
