@@ -1,29 +1,39 @@
 {
 
-  "contact": "https://discord.gg/anny // Auxm",
+    "contact": "Contact @Swarm council in Neurocord - Neurosama Discord",
 
-  "templates": [
+    "templates": [
 
-    {
+        {
 
-      "name": "Annyrf Erm",
+            "name": "Neuro-sama Fumo",
 
-      "sources": [
+            "sources": [
 
-        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/Erm_v3_tmpl.png"
+                "https://cdn.discordapp.com/attachments/1131238540408258651/1131591303575126077/New_Piskel-1.png_19.png"
 
-      ],
+            ],
 
-      "x": 400,
+            "x": 408,
 
-      "y": 800
+            "y": 855
 
-    }
+        }
 
-  ],
+    ],
 
-  "whitelist": [],
+    "whitelist": [
 
-  "blacklist": []
+        {
+
+            "name": "VTubers Place",
+
+            "url": "https://template.vtubers.place/api/Template/raw"
+
+        }
+
+    ],
+
+    "blacklist": []
 
 }
