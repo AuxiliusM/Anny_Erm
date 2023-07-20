@@ -1,0 +1,39 @@
+{
+
+  "contact": "https://discord.gg/anny // Auxm",
+
+  "templates": [
+
+    {
+
+      "name": "Annyrf Erm",
+
+      "sources": [
+
+        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/Erm_v3_tmpl.png"
+
+      ],
+
+      "x": 400,
+
+      "y": 800
+
+    }
+
+  ],
+
+  "whitelist": [
+
+    {
+
+      "name": "Nero Peps",
+
+      "url": "https://neuroplace.pages.dev/bruh.json "
+
+    }
+
+  ],
+
+  "blacklist": []
+
+}
