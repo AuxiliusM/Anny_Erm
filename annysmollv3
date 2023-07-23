@@ -1,0 +1,29 @@
+{
+
+  "contact": "https://discord.gg/anny || DC Auxm",
+
+  "templates": [
+
+    {
+
+      "name": "annytferm",
+
+      "sources": [
+
+        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/anny_star_v7.png"
+
+      ],
+
+      "x": 393,
+
+      "y": 886
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
