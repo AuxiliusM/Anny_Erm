@@ -1,6 +1,6 @@
 {
 
-  "contact": "contact\": \"https://discord.gg/anny || DC Auxm",
+  "contact": "https://discord.gg/anny || DC Auxm",
 
   "templates": [
 
@@ -10,11 +10,11 @@
 
       "sources": [
 
-        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/anny_star_v9.png"
+        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/anny_star_v11.png"
 
       ],
 
-      "x": 891,
+      "x": 1391,
 
       "y": 1386
 
