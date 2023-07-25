@@ -1,6 +1,6 @@
 {
 
-  "contact": "contact\": \"https://discord.gg/anny || DC Auxm",
+  "contact": "\"contact\\\": \\\"https://discord.gg/anny || DC Auxm\"",
 
   "templates": [
 
@@ -14,7 +14,7 @@
 
       ],
 
-      "x": 891,
+      "x": 1391,
 
       "y": 1386
 
