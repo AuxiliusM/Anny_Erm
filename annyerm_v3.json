@@ -1,22 +1,22 @@
 {
 
-  "contact": "https://discord.gg/anny || DC Auxm",
+  "contact": "contact\": \"https://discord.gg/anny || DC Auxm",
 
   "templates": [
 
     {
 
-      "name": "annytferm",
+      "name": "Anny Star",
 
       "sources": [
 
-        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/erm_day1.png"
+        "https://raw.githubusercontent.com/AuxiliusM/Anny_Erm/main/anny_star_v10.png"
 
       ],
 
-      "x": 380,
+      "x": 891,
 
-      "y": 872
+      "y": 1386
 
     }
 
